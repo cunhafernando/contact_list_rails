@@ -3,6 +3,16 @@ class StaticPagesController < ApplicationController
     @nome="Fernando"
   end
 
+  def sobre
+    
+  end
+
+  def contato
+    
+  end
+  
+  
+
 
 
 end
